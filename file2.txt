@@ -1,4 +1,7 @@
 hi there u r a dambo
 
+<<<<<<< Updated upstream
 
 stash work
+=======
+>>>>>>> Stashed changes
